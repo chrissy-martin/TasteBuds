@@ -79,9 +79,9 @@ SO THAT that I can eat good food with fun people and not alone.
 
  <!-- TODO: Update -->
 
-- Live URL: [TasteBuds](https://safe-everglades-81975.herokuapp.com/)
-- Github Repository: [TasteBuds](https://github.com/anomic84/TasteBuds/)
-- Profile: [Spencer Carlson](https://spencerccarlson.com/)
+- Live URL: [TasteBuds](https://taste-buds-chrissy-martin.herokuapp.com/)
+- Github Repository: [TasteBuds](https://github.com/chrissy-martin/TasteBuds)
+- Profile: [Chrissy Martin](https://github.com/chrissy-martin)
 
 <br>
 <hr>
